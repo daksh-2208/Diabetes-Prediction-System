@@ -1,0 +1,9 @@
+A list of libraries needed to run your code.
+
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+gradio
